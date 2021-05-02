@@ -1,11 +1,12 @@
 # praktikum_uts
 
 Nama  : jaja nurjaman
+
 Nim   : 311910083
+
 Kelas : TI.19.B1
 
 sumber referensi:
-
 https://www.dicoding.com/blog/contoh-coding-html-website-dalam-15-menit/
 
 
